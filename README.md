@@ -7,9 +7,10 @@ Source environment for my [php5-centos-nginx vagrant box](https://atlas.hashicor
 * [Ansible](http://docs.ansible.com/ansible/index.html)
 
 ### Versions
-* CentOS release 6.8 (Final)
-* Nginx 1.10.2
-* PHP 5.6.29
+>Basebox:centos/6 1703.01
+* CentOS release 6.9 (Final)
+* Nginx 1.12
+* PHP 5.6.30
 
 ### Instructions
 
